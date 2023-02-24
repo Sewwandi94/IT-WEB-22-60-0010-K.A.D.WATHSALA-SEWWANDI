@@ -1,0 +1,33 @@
+body {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  padding: 3rem;
+}
+
+.float-sm-left {
+  float: right;
+  display: flex;
+  max-width: 100%;
+  padding-left:50%;
+}
+
+.rounded float-sm-start, .rounded float-sm-none {
+  display: flex;
+}
+
+.section2img1 {
+  background-color:rgb(90, 90, 165);
+  min: height 33.3%;
+  min-width: none;
+}
+
+.section2img1 {
+  background-color:rgb(90, 90, 165);
+  min: height 33.3%;
+  min-width: none;
+}
+
+.section2img1 {
+  background-color:rgb(90, 90, 165);
+  min: height 33.3%;
+  min-width: none;
+}
